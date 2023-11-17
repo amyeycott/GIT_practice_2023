@@ -1,0 +1,13 @@
+---
+title: "Git practice 2023"
+format: html
+editor: visual
+date: today
+author: amyeycott
+---
+
+## Git wants feeding
+
+```{r}
+print("hello world")
+```
