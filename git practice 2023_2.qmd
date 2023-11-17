@@ -1,0 +1,10 @@
+---
+title: "Git practice part 2"
+author: "amyeycott"
+format: html
+editor: visual
+---
+
+```{r}
+livrary(tidyverse)
+```
