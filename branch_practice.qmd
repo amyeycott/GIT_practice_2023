@@ -1,0 +1,12 @@
+---
+title: "Branch practice"
+author: "amyeycott"
+format: html
+editor: visual
+---
+
+## Branches are also hungry
+
+```{r}
+library(ggplot2)
+```
