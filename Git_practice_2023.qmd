@@ -6,16 +6,4 @@ date: today
 author: amyeycott
 ---
 
-## Git wants feeding
-
-```{r}
-print("hello world")
-```
-
-# Git wants mooooore
-
-```{r}
-print("hungry still")
-```
-
-# Git branch test
+## 
